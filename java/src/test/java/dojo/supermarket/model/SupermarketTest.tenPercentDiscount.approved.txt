@@ -1,0 +1,318 @@
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+
+Total:                              9.95
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+10.0% off(apples)                  -1.00
+
+Total:                              8.96
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+
+Total:                              9.95
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+3 for 2(apples)                    -1.99
+
+Total:                              7.96
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+
+Total:                              9.95
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+2 for 10.0(apples)                 12.04
+
+Total:                             21.99
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+
+Total:                              9.95
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              4.98
+  1.99 * 2.500
+apples                              4.98
+  1.99 * 2.500
+5 for 10.0(apples)                  0.05
+
+Total:                             10.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 2.5, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+
+Total:                             11.94
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+10.0% off(apples)                  -1.19
+
+Total:                             10.75
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+
+Total:                             11.94
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+3 for 2(apples)                    -3.98
+
+Total:                              7.96
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+
+Total:                             11.94
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+2 for 10.0(apples)                 18.06
+
+Total:                             30.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+
+Total:                             11.94
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              5.97
+  1.99 * 3.000
+apples                              5.97
+  1.99 * 3.000
+5 for 10.0(apples)                  0.05
+
+Total:                             11.99
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 3.0, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+
+Total:                             19.90
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+10.0% off(apples)                  -1.99
+
+Total:                             17.91
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+
+Total:                             19.90
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+3 for 2(apples)                    -5.97
+
+Total:                             13.93
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+
+Total:                             19.90
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+2 for 10.0(apples)                 30.10
+
+Total:                             50.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+
+Total:                             19.90
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              9.95
+  1.99 * 5.000
+apples                              9.95
+  1.99 * 5.000
+5 for 10.0(apples)                  0.10
+
+Total:                             20.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 5.0, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              1.99
+apples                              1.99
+
+Total:                              3.98
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TenPercentDiscount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              1.99
+apples                              1.99
+10.0% off(apples)                  -0.40
+
+Total:                              3.58
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TenPercentDiscount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              1.99
+apples                              1.99
+
+Total:                              3.98
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, ThreeForTwo, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              1.99
+apples                              1.99
+
+Total:                              3.98
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, ThreeForTwo, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              1.99
+apples                              1.99
+
+Total:                              3.98
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TwoForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              1.99
+apples                              1.99
+2 for 10.0(apples)                  6.02
+
+Total:                             10.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, TwoForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 2] => apples                              1.99
+apples                              1.99
+
+Total:                              3.98
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, FiveForAmount, Product{name='toothbrush', unit=Each}, 10.0, 0] => 
+Total:                              0.00
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 2] => apples                              1.99
+apples                              1.99
+
+Total:                              3.98
+ 
+[Product{name='apples', unit=Kilo}, 1.99, 1.0, FiveForAmount, Product{name='apples', unit=Kilo}, 10.0, 0] => 
+Total:                              0.00
+ 

@@ -34,4 +34,12 @@ public class Product {
 
         return Objects.hash(name, unit);
     }
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "name='" + name + '\'' +
+                ", unit=" + unit +
+                '}';
+    }
 }
