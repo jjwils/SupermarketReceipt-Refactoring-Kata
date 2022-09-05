@@ -35,7 +35,7 @@ public class SupermarketTest {
                 new SpecialOfferType[]{SpecialOfferType.TenPercentDiscount, SpecialOfferType.ThreeForTwo, SpecialOfferType.TwoForAmount, SpecialOfferType.FiveForAmount},
                 new Product[]{TOOTHBRUSH, APPLES},
                 new Double[]{10.0},
-                new Integer[]{2, 0});
+                new Integer[]{2, 0, 1});
 
     }
 
