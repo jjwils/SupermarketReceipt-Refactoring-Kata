@@ -31,7 +31,7 @@ public class SupermarketTest {
         CombinationApprovals.verifyAllCombinations((product, price, quantity, specialOfferType, specialOfferProduct, specialOfferArgument, numberOfTimestoAdd) -> getReceipt(product, price, quantity, specialOfferType, specialOfferProduct, specialOfferArgument, numberOfTimestoAdd),
                 new Product[]{APPLES},
                 new Double[]{1.99},
-                new Double[]{2.5, 3.0, 5.0, 1.0},
+                new Double[]{2.5, 3.0, 5.0, 1.0,4.0},
                 new SpecialOfferType[]{SpecialOfferType.TenPercentDiscount, SpecialOfferType.ThreeForTwo, SpecialOfferType.TwoForAmount, SpecialOfferType.FiveForAmount},
                 new Product[]{TOOTHBRUSH, APPLES},
                 new Double[]{10.0},
